@@ -3,6 +3,7 @@
 # Ignite - the hottest React Native boilerplate
 
 <a href="https://badge.fury.io/js/ignite-cli" target="_blank"><img src="https://badge.fury.io/js/ignite-cli.svg" alt="npm version" height="20"></a>
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/infinitered/ignite/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/infinitered/ignite/tree/master)
 
 ## Battle-tested React Native boilerplate
 
@@ -10,7 +11,7 @@ The culmination of five years of constant React Native development, Ignite is th
 
 This is the React Native boilerplate that the [Infinite Red](https://infinite.red) team uses on a day-to-day basis to build client apps. Developers who use Ignite report that it saves them two to four weeks of time on average off the beginning of their React Native project!
 
-_NOTE: Ignite CLI version 6.0 now includes the boilerplate -- read [the blog post](https://shift.infinite.red/introducing-ignite-4-0-flame-1dfc891f9966) to find out why!_
+_NOTE: Ignite CLI version 8.0 is now in beta -- check it out in the `maverick` branch!_
 
 ## Tech Stack
 
@@ -47,6 +48,8 @@ npx ignite-cli new PizzaApp --bundle=com.infinitered.pizzaapp
 ```
 
 Ignite will walk you through the rest.
+
+Once you're up and running, check out our new [Getting Started Guide](https://github.com/infinitered/ignite/blob/master/docs/Guide.md) guide or the rest of our [docs](https://github.com/infinitered/ignite/blob/master/docs).
 
 If you'd like to follow a tutorial, check out [this one from Robin Heinze](https://shift.infinite.red/creating-a-trivia-app-with-ignite-bowser-part-1-1987cc6e93a1).
 
